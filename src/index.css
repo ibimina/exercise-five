@@ -8,13 +8,14 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 2rem 0 2rem 0;
 }
 .App{
   text-align: center;
-  padding: 2rem;
+  /* padding: 2rem; */
 }
 h1,h3{
-  margin: 1rem;
+  margin: .5rem;
 }
 ul{
   list-style: none;
